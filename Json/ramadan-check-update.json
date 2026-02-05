@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "- Fix some bugs",
+        "force_update": "false",
+        "package_name": "com.holyquran.quranprayer.ramadan",
+        "version_code": 1,
+        "version_name": 1.0",
+        "new_package_name": "com.holyquran.quranprayer.ramadan"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
