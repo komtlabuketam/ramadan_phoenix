@@ -70,6 +70,14 @@
         {
           "name": "banner_splash_id",
           "isEnabled": "true"
+        },
+        {
+          "name": "native_language_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "reward_home_id",
+          "isEnabled": "true"
         }
       ]
     }
