@@ -78,6 +78,18 @@
         {
           "name": "reward_home_id",
           "isEnabled": "true"
+        },
+        {
+          "name": "inter_tasbih_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_pdf_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_map_id",
+          "isEnabled": "true"
         }
       ]
     }
